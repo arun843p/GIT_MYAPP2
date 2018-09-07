@@ -42,11 +42,6 @@
         <formula>'A'</formula>
       </keyCalculation>
       </calculatedAttribute>
-    <calculatedAttribute id="CC_DUMMY_1" order="8" semanticType="empty" displayAttribute="false" attributeHierarchyActive="false">
-      <keyCalculation datatype="INTEGER" expressionLanguage="SQL">
-        <formula>10</formula>
-      </keyCalculation>
-      </calculatedAttribute>
   </calculatedAttributes>
   <baseMeasures/>
   <calculatedMeasures/>
