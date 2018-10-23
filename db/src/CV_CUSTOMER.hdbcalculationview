@@ -42,6 +42,12 @@
         <formula>'A'</formula>
       </keyCalculation>
       </calculatedAttribute>
+  
+    <calculatedAttribute id="CC_1" order="8" semanticType="empty" displayAttribute="false" attributeHierarchyActive="false">
+      <keyCalculation datatype="VARCHAR" expressionLanguage="SQL" length="13">
+        <formula>'A'</formula>
+      </keyCalculation>
+      </calculatedAttribute>
   </calculatedAttributes>
   <baseMeasures/>
   <calculatedMeasures/>
